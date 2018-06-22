@@ -5,12 +5,12 @@
 Your job is to build a method that processes a given tic tac toe board and figures out the winner.
 You will receive a multi-dimensional array containing a filled out tic tac toe board.
 The array will be similar to
-    [
+    ```[
         ["X", "X", "X"],
         ["O", "O", "O"],
         ["X", "X", "X"]
     ]
-
+```
 You must take this array and figure out who won the game. Once you have figured out who won you will simply return your results.
 So if O wins your return would be a string "O", and Vice-Versa for "X".
 If there is a draw, you should return "-" to signify no winner.
