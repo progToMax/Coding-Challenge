@@ -28,4 +28,4 @@ If there is a draw, you should return "-" to signify no winner.
 ### Additional Notes
 
 _**Note: "O" is a capital o and not a zero.**_
-** If you're unfamiliar with git, you can learn the basics here: [https://git-scm.com/book/en/v2/Getting-Started-Git-Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+** If you're unfamiliar with git, you can learn the basics here: [https://git-scm.com/book/en/v2/Getting-Started-Git-Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)**
