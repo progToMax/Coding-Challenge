@@ -27,4 +27,4 @@ If there is a draw, you should return "-" to signify no winner.
 
 ### Additional Notes
 
-_**Note: "O" is a capital o and not a zero.
+_**Note: "O" is a capital o and not a zero.**_
